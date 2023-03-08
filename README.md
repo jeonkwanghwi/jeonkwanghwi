@@ -2,7 +2,7 @@
 
 <div align = "center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Transparent&text=전광휘)  
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=전광휘)  
 </div>
 
 
