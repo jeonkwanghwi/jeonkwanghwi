@@ -1,13 +1,20 @@
 ### Hi there 👋
 
+<div align = "center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Transparent&text=전광휘)  
+</div>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonkwanghwi&show_icons=true&theme=radical)
+
+
 
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
-  
-  
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   
   
   
