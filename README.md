@@ -10,7 +10,6 @@
 
 📧 nimo6289@naver.com 📧
 
-<a href="https://100won-developer.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TECH_BLOG-배경색?style=for-the-badge&logo=000115&logoColor=000000"/></a>
   
   
   Tech Stack
