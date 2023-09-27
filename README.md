@@ -10,9 +10,13 @@
 
 📧 nimo6289@naver.com 📧
 
+
+<a href="XX"><img src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
   
-  
-  Tech Stack
+Tech Stack
+<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
+
   
 </div>
 
