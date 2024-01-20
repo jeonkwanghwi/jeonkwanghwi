@@ -1,14 +1,10 @@
-### 안녕하세요 ! 👋
+### Hello ! 👋
 
 <div align = "center">
-  
+  My name is Jeon Kwang Hwi, I'm studying backend.
 
-  
-  
-  
-💻 반갑습니다! 저는 전광휘이고, 백엔드를 공부하고 있습니다. 💻
-
-📧 nimo6289@naver.com 📧
+  📧 Email : nimo6289@naver.com
+  ✏️ Blog  : ~
 
 
 <a href="XX"><img src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
