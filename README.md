@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+<div align = "center">
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20My%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+</div>
+
 
 ## Hello ! 👋
 
@@ -6,8 +11,6 @@
 #### 📧 Email : nimo6289@naver.com
 #### ✏️ Blog  : ~
 
-<div align = "center">
-</div>
     
 
 #### Tech Stack
