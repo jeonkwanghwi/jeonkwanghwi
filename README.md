@@ -7,12 +7,15 @@
   
   ✏️ Blog  : ~
 
-  
+    </div>
+    
 Tech Stack
 
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
 
-  </div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">
 
   
 [![Solved.ac
