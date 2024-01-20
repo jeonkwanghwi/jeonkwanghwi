@@ -1,7 +1,7 @@
-### Hello ! 👋
+## Hello ! 👋
 
 <div align = "center">
-  My name is Jeon Kwang Hwi, I'm studying backend.
+### My name is Jeon Kwang Hwi, I'm studying backend.
 
   📧 Email : nimo6289@naver.com
   
