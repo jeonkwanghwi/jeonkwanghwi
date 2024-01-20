@@ -4,10 +4,8 @@
   My name is Jeon Kwang Hwi, I'm studying backend.
 
   📧 Email : nimo6289@naver.com
+  
   ✏️ Blog  : ~
-
-
-<a href="XX"><img src="https://img.shields.io/badge/Tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
   
 Tech Stack
