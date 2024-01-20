@@ -18,6 +18,8 @@ Tech Stack
 
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white"/>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={nimo6289})](https://solved.ac/{nimo6289})
   
 </div>
 
