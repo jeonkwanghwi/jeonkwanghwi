@@ -1,14 +1,14 @@
 ## Hello ! 👋
 
-### My name is Jeon Kwang Hwi, I'm studying backend.
-### 📧 Email : nimo6289@naver.com
-### ✏️ Blog  : ~
+#### My name is Jeon Kwang Hwi, I'm studying backend.
+#### 📧 Email : nimo6289@naver.com
+#### ✏️ Blog  : ~
 
 <div align = "center">
 </div>
     
 
-### Tech Stack
+#### Tech Stack
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
 
