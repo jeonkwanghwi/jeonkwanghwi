@@ -5,7 +5,7 @@
 
 #### My name is Jeon Kwang Hwi, I'm studying backend.
 #### 📧 Email : nimo6289@naver.com
-#### ✏️ Blog  : Tistory
+#### ✏️ Blog  : https://100won-developer.tistory.com/
 
     
 
