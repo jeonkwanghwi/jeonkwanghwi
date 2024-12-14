@@ -3,10 +3,8 @@
 
 ## Hello ! 👋
 
-#### My name is Jeon Kwang Hwi, I'm studying backend.
+#### My name is Jeon Kwang Hwi, I'm studying Backend , QA, Infra.
 #### 📧 Email : nimo6289@naver.com
-#### ✏️ Blog  : 
-
     
 
 #### Tech Stack
