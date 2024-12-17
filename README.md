@@ -5,15 +5,15 @@
 ## 👤 About Me
 
 ### 🎓 **Education**  
-- **Computer Science Engineering** at **Dongguk University**  
+- **Studied Computer Science Engineering** at **Dongguk University**  
 
 ### 💼 **Work Experience**  
 - **Infra Engineer** at **SK Broadband**  
 
 ### 📫 **Contact Me**  
-- 📧 Email : **nimo6289@naver.com**  
-- ✍️ Blog : [100won-developer.tistory.com](https://100won-developer.tistory.com/)  
-- 📝 Portfolio : [jeonkwanghwi.github.io](https://jeonkwanghwi.github.io/)
+- 📧 Email: **nimo6289@naver.com**  
+- ✍️ Blog: [100won-developer.tistory.com](https://100won-developer.tistory.com/)  
+- 📝 Portfolio: [jeonkwanghwi.github.io](https://jeonkwanghwi.github.io/)
 
 ---
 
@@ -36,6 +36,36 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 </div>
+
+---
+
+## 🏆 Certifications  
+- **정보처리기사**  
+- **SQLD**  
+- **Microsoft Azure Fundamentals**  
+- **ISTQB CTFL**
+
+---
+
+## 🏅 Awards  
+- **2021**  
+   - 2학기 학기 우등생  
+   - 공과대학 어드벤처디자인 경진대회 - **우수상**  
+- **2022**  
+   - Farm SW프로젝트 경진대회 - **최우수상 (1등상)**  
+- **2023**  
+   - 공과대학 Speech 경진대회 - **AI융합대학장상 (1등상)**  
+   - 2학기 학기 우등생  
+- **2024**  
+   - 1학기 학기 우등생  
+   - 겨울 종합설계 발표회 - **장려상** (37팀 중 7등)
+
+---
+
+## 🌟 ETC  
+- **2022**: 베트남 온라인 해외봉사  
+- **2023**: 스마트 해상물류 경진대회 2차 본선진출  
+- **2024**: 소셜벤처 창업동아리 **인액터스 32기**
 
 ---
 
