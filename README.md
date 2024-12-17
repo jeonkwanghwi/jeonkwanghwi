@@ -4,7 +4,7 @@
 ## Hello ! My name is Jeon Kwang Hwi 👋
 
 ### 🎓 Education : Computer Science Engineering at Dongguk University  
-### 💼 Work Experience : SK Broadband Infra
+### 💼 Work Experience : SK Broadband Infra 
 ### 📧 Email : nimo6289@naver.com
 ### ✍️ Blog : https://100won-developer.tistory.com/
 ### 📝 Portfolio : https://jeonkwanghwi.github.io/
