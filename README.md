@@ -11,9 +11,9 @@
 - **Infra Engineer** at **SK Broadband**  
 
 ### 📫 **Contact Me**  
-- 📧 Email: **nimo6289@naver.com**  
-- ✍️ Blog: [100won-developer.tistory.com](https://100won-developer.tistory.com/)  
-- 📝 Portfolio: [jeonkwanghwi.github.io](https://jeonkwanghwi.github.io/)
+- 📧 Email : **nimo6289@naver.com**  
+- ✍️ Blog : [100won-developer.tistory.com](https://100won-developer.tistory.com/)  
+- 📝 Portfolio : [jeonkwanghwi.github.io](https://jeonkwanghwi.github.io/)
 
 ---
 
