@@ -12,7 +12,7 @@
 
 ## 📫 Contact Me
 - 📧 **Email**: nimo6289@naver.com  
-- ✍️ **Blog**: <a href="https://100won-developer.tistory.com/" target="_blank">Visit My Blog</a>  
+- ✍️ **Blog**: <a href="https://100won-developer.tistory.com/" target="_blank">Visit Blog</a>  
 - 📝 **Portfolio**: <a href="https://jeonkwanghwi.github.io/" target="_blank">Github Portfolio</a>
 
 ---
