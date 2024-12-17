@@ -5,7 +5,9 @@
 
 #### My name is Jeon Kwang Hwi, I'm studying Backend , QA, Infra.
 #### 📧 Email : nimo6289@naver.com
-    
+### ✍️ Blog : https://100won-developer.tistory.com/
+### 📝 Portfolio : https://jeonkwanghwi.github.io/
+
 
 #### Tech Stack
 
