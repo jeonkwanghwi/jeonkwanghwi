@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20My%20Story%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 
-## Hello ! 👋
+## Hello ! My name is Jeon Kwang Hwi 👋
 
-### My name is Jeon Kwang Hwi, I'm studying Backend , QA, Infra.
+### 🎓 Education : Studied Computer Science Engineering at Dongguk University  
+### 💼 Work Experience : SK Broadband Infra
 ### 📧 Email : nimo6289@naver.com
 ### ✍️ Blog : https://100won-developer.tistory.com/
 ### 📝 Portfolio : https://jeonkwanghwi.github.io/
