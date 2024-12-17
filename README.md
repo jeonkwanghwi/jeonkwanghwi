@@ -5,7 +5,7 @@
 ## 👤 About Me
 
 ### 🎓 **Education**  
-- **Studied Computer Science Engineering** at **Dongguk University**  
+- **Computer Science Engineering** at **Dongguk University**  
 
 ### 💼 **Work Experience**  
 - **Infra Engineer** at **SK Broadband**  
