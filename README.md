@@ -3,13 +3,13 @@
 
 ## Hello ! 👋
 
-#### My name is Jeon Kwang Hwi, I'm studying Backend , QA, Infra.
-#### 📧 Email : nimo6289@naver.com
+### My name is Jeon Kwang Hwi, I'm studying Backend , QA, Infra.
+### 📧 Email : nimo6289@naver.com
 ### ✍️ Blog : https://100won-developer.tistory.com/
 ### 📝 Portfolio : https://jeonkwanghwi.github.io/
 
 
-#### Tech Stack
+### Tech Stack
 
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&amp;logo=java&amp;logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=GitHub&amp;logoColor=white">
 
@@ -20,18 +20,3 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonkwanghwi&show_icons=true&theme=onedark)
 
-
-<!--
-**jeonkwanghwi/jeonkwanghwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
