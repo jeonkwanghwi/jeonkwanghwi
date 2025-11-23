@@ -44,6 +44,7 @@
 - **SQLD**  
 - **Microsoft Azure Fundamentals**  
 - **ISTQB CTFL**
+- **네트워크관리사 2급**
 
 ---
 
