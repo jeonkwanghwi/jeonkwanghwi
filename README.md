@@ -78,19 +78,4 @@
 
 ---
 
-## 🏆 Algorithm Skills  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nimo6289)](https://solved.ac/nimo6289)
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeonkwanghwi&show_icons=true&theme=onedark" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jeonkwanghwi&theme=onedark&hide_border=true" />
-</div>
-
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
