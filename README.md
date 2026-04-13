@@ -67,6 +67,8 @@
    - 동국대학교 개발자 양성과정 **최우수 졸업**
 - **2025**
    - SK Broadband 신입 TeamProject 1등
+   - SK Broadband A dot TeamProject 1등
+
 
 
 ---
