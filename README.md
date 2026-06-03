@@ -8,7 +8,7 @@
 - **Computer Science Engineering** at **Dongguk University**  
 
 ### 💼 **Work Experience**  
-- **Infra Engineer** at **SK Broadband**  
+- **Network & AT/DT Engineer** at **SK Broadband**  
 
 <!-- 
 ### 📫 **Contact Me**  
