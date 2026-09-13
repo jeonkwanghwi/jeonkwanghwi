@@ -7,8 +7,15 @@
 ### 🎓 **Education**  
 - **Computer Science Engineering** at **Dongguk University**  
 
-### 💼 **Work Experience**  
-- **Network & AT/DT Engineer** at **SK Broadband**  
+### 💼 Work Experience
+
+- **SK Broadband** (2025.01 ~)
+   - **Network B2B Customer Technology** (2025.01 ~ 2025.12)
+      - **B2B ChatBot** — 고객 응대 이력을 기반으로 장애를 분석해주는 고객 전용 챗봇 `Python` `RAG` `LLM`
+   - **Network & AT/DT Engineer** (2025.12 ~)
+      - **DataLake** — 원천 시스템을 연동하는 사내 데이터 레이크 연동 및 확장 `PostgreSQL`
+      - **No-Ops Platform** — Docker/K8s 리소스 자동 할당 플랫폼 운영·확산 `Docker` `Kubernetes`
+      - **DPG** — 작업 이력 대조로 critical 알람 선별, 원인 추적을 원스톱으로 진행 `Python` `LLM`
 
 <!-- 
 ### 📫 **Contact Me**  
@@ -71,6 +78,11 @@
    - SK Broadband A dot TeamProject 1등
 
 
+---
+
+## 🛠️ Side Projects
+- **[Define]**
+- **[StudyLog]**
 
 ---
 
@@ -82,10 +94,5 @@
 
 ---
 
-## 🛠️ Side Projects
-- **[Define]**
-- **[StudyLog]**
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
