@@ -48,6 +48,7 @@
 - **Microsoft Azure Fundamentals**  
 - **ISTQB CTFL**
 - **네트워크관리사 2급**
+- **토익스피킹 IH(140)**
 
 ---
 
