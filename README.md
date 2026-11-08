@@ -76,6 +76,9 @@
 - **2025**
    - SK Broadband 신입 TeamProject 1등
    - SK Broadband A dot TeamProject 1등
+- **2026**
+   - SK Broadband 사내 해커톤 공동 5등
+
 
 
 ---
