@@ -15,7 +15,6 @@
    - **Network & AT/DT Engineer** (2025.12 ~)
       - **DataLake** — 원천 시스템을 연동하는 사내 데이터 레이크 연동 및 확장 `PostgreSQL`
       - **No-Ops Platform** — Docker/K8s 리소스 자동 할당 플랫폼 운영·확산 `Docker` `Kubernetes`
-      - **DPG** — 작업 이력 대조로 critical 알람 선별, 원인 추적을 원스톱으로 진행 `Python` `LLM`
 
 <!-- 
 ### 📫 **Contact Me**  
