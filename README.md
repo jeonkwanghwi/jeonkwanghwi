@@ -84,7 +84,8 @@
 
 ## 🛠️ Side Projects
 - **[Define]**
-- **[StudyLog]**
+   - https://github.com/jeonkwanghwi/define
+   - https://apps.apple.com/kr/app/define-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%A0%95%EC%9D%98/id6818921716
 
 ---
 
