@@ -21,6 +21,7 @@
 - 📧 Email : **nimo6289@naver.com**  
 - ✍️ Blog : [100won-developer.tistory.com](https://100won-developer.tistory.com/)  
 - 📝 Portfolio(Student) : [jeonkwanghwi.github.io](https://jeonkwanghwi.github.io/)
+- 💼 LinkedIn : [linkedin.com/in/광휘-전](https://www.linkedin.com/in/%EA%B4%91%ED%9C%98-%EC%A0%84-495686319/?locale=ko-KR)
 -->
 ---
 
@@ -42,7 +43,7 @@
     <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white">
     <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square&logo=OpenAI&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
 </div>
 
@@ -86,6 +87,16 @@
 - **[Define]**
    - https://github.com/jeonkwanghwi/define
    - https://apps.apple.com/kr/app/define-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%A0%95%EC%9D%98/id6818921716
+
+---
+
+## 📰 News
+- **[서울경제]** 2026.06.29  
+   - [직원들이 만든 AI앱만 600개…SKB, 전사 AX 가속화](https://www.sedaily.com/article/20061522)
+- **[뉴스1]** 2026.06.29  
+   - [27년 베테랑의 '감'을 AI에 심었다…SKB 인터넷 지키는 'C-One'](https://www.news1.kr/it-science/cc-newmedia/6209837)
+- **[디지털타임즈]** 2026.08.24  
+   - [신입이 만든 AI에 베테랑 노하우 더한다…SK브로드밴드 AX 문화 확산](https://www.dt.co.kr/article/12079875?ref=naver)
 
 ---
 
